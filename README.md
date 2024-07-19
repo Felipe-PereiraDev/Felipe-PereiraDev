@@ -11,8 +11,7 @@
 ###
 
 <div align="left">
-## Environments, Testing, Other:
-
+  
 | Java | Spring | MySQL | Git |
 |---|---|---|---|
 | ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) | ![Spring](https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg) | ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) | ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg) |
