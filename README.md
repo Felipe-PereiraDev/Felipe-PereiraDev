@@ -14,7 +14,10 @@
   
 | Java | Spring | MySQL | Git |
 |---|---|---|---|
-| ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) | ![Spring](https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg) | ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) | ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="60" alt="Java logo"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="60" alt="Spring logo"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="60" alt="MySQL logo"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" height="60" alt="Git logo"> |
+
+
+
 </div>
 
 ###
