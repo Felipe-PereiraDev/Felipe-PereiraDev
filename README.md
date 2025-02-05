@@ -40,7 +40,7 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/felipe-pereira-b632a0301/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="82" height="70" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/Felipe-PereiraDev/Felipe-PereiraDev/output/snake.svg" alt="Snake animation" />
   </a>
 </div>
 
