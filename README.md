@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá! 👋 Sou desenvolvedor Java e estudante de Análise e Desenvolvimento de Sistemas. Atualmente, estou focado em aprimorar minhas habilidades com Spring Boot e outras tecnologias relacionadas ao desenvolvimento web.</p>
+<p align="left">Olá! 👋 Sou um desenvolvedor focado em backend, com experiência em Java e Spring Boot. Estou sempre em busca de aprimorar minhas habilidades e construir soluções robustas e escaláveis.</p>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<div align="left">
+<div align="center">
   
-| Java | Spring | MySQL | Git |
-|---|---|---|---|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="60" alt="Java logo"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="60" alt="Spring logo"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="60" alt="MySQL logo"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" height="60" alt="Git logo"> |
+| Java | Spring | MySQL | Git | Docker | JUNit 5 | 
+|---|---|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="60" alt="Java logo"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="60" alt="Spring logo"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="60" alt="MySQL logo"> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="80" alt="Git logo"> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker logo"> | <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original-wordmark.svg"> |
 
 
 
